@@ -1,0 +1,35 @@
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -48px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.section{
+  height: 700px;
+  background-color: #eae3e3;
+  margin: 1px;
+  padding: 5px;
+}
+
+.navbar-brand h1{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  color: black;
+}
